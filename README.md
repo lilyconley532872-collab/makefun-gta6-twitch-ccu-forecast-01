@@ -1,5 +1,9 @@
 # GTA VI launch-day Twitch forecaster — make.fun `gta6-twitch-ccu-forecast-01`
 
+[![make.fun bounty](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![make.fun rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lilyconley532872-collab/makefun-gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![make.fun reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lilyconley532872-collab/makefun-gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+
 A program that forecasts how many people watch Grand Theft Auto VI live on
 Twitch in each hour of its release day (2026-11-19 UTC), as five quantiles
 (5%, 25%, 50%, 75%, 95%) per hour, from the case's hour-1 print and the
