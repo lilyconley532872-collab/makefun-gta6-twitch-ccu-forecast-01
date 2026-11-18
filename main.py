@@ -27,7 +27,7 @@ Method (empirical, calibrated on the kit's comparables; no network, no model):
 
 Backtest (local, same pinball loss on the log scale as the grader):
   - the kit's 4 official practice cases (answers from SullyGnome, the same
-    source the kit names): loss 0.181, typical miss 33%, 90% coverage 0.93
+    source the kit names): loss 0.181, typical miss 29.5%, 90% coverage 0.935
     (house baseline on the same cases: loss 0.387, miss 83%, coverage 0.78)
   - leave-one-out over the 42 launches in the case's comparable pool
     (each launch forecast from the other 41): loss 0.247 on the 23
